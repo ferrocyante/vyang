@@ -32,6 +32,19 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 
 ###
 
+## 🛠️ Setup Instructions  
+
+### 1. Move Window Controls to the Left  
+- Go to `about:config` in your browser.  
+- Toggle `zen.view.experimental-force-window-controls-left` to `true`.  
+
+### 2. Set Density to Touch  
+- Right-click on the menu bar and select **Customize Toolbar**.  
+- Set **Density** to **Touch**.  
+
+### 3. Enable Single Toolbar Mode  
+- This theme is **only compatible with single toolbar mode**.  
+
 <h2 align="left">💿 Installation:</h2>
 
 ###
