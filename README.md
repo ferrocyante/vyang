@@ -47,7 +47,7 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 
   ### 4. Clean Up Extra Icons  
 - Remove unnecessary icons from the toolbar.  
-- Move them to the **hovering toolbar on the right side** to avoid cluttering the tabs section.  
+- Move them to the **hovering toolbar on the right side in hoverable toolbar ** to avoid cluttering the tabs section.  
 
 ### 5. Enable Tab Groups  
 - Go to `about:config`.  
