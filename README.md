@@ -68,9 +68,12 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 
 ###
 
+
 <p align="left">• this extension makes web pages transparent<br>https://addons.mozilla.org/en-US/firefox/addon/zen-internet/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search</p>
 
 ###
+
+### 🚨 **WARNING:** This is a BETA version with many bugs – use at your own risk! 🚨 
 
 <h2 align="left">Credits:</h2>
 
