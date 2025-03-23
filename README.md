@@ -12,6 +12,22 @@
 
 ###
 
+
+# 🦋 Vyang Browser Theme  
+
+**A modern, minimalist browser theme inspired by nature.**  
+
+## 🙏 Acknowledgments  
+Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiring this project.  
+
+## ⚠️ Beta Notice  
+**This is an experimental version!**  
+- Not recommended for casual users unfamiliar with CSS.  
+- May contain bugs or incomplete features.  
+- Use only if you're comfortable troubleshooting themes.  
+
+🔧 **Contributions** and feedback welcome!  
+
 <p align="left">Vyang is a custom theme for Zen browser which overhauls the UI of Zen making it look like how I imagined it to be, giving it a clean look.<br><br>This is my personal userChrome which I made to personalize Zen to my own liking. ❤️<br>If some of you don't like the design choices I made, you can edit the userChrome yourself if you know how to code, and if you don't, you can use ChatGPT to customize it as per your preference.</p>
 
 ###
