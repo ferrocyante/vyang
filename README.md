@@ -43,7 +43,22 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 - Set **Density** to **Touch**.  
 
 ### 3. Enable Single Toolbar Mode  
-- This theme is **only compatible with single toolbar mode**.  
+- This theme is **only compatible with single toolbar mode**.
+
+  ### 4. Clean Up Extra Icons  
+- Remove unnecessary icons from the toolbar.  
+- Move them to the **hovering toolbar on the right side** to avoid cluttering the tabs section.  
+
+### 5. Enable Tab Groups  
+- Go to `about:config`.  
+- Search for `browser.tabs.tabmanager.enabled` and set it to `true`.  
+
+### 6. URL Bar Lag During Animations  
+- The URL bar may lag if animations or video content is displayed on the screen.  
+- To fix this, either:  
+  - **Cope with the lag**, or  
+  - **Remove the URL bar CSS** from the theme.  
+
 
 <h2 align="left">💿 Installation:</h2>
 
