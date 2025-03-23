@@ -51,7 +51,7 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 
 ### 5. Enable Tab Groups  
 - Go to `about:config`.  
-- Search for `browser.tabs.tabmanager.enabled` and set it to `true`.  
+- Search for `browser.tabs.groups.enabled` and set it to `true`.  
 
 ### 6. URL Bar Lag During Animations  
 - The URL bar may lag if animations or video content is displayed on the screen.  
