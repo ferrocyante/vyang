@@ -34,31 +34,38 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 
 ## 🛠️ Setup Instructions  
 
-### 1. Move Window Controls to the Left  
+### 1. Use a Clean Profile  
+- To avoid interference from other CSS, **test this theme on a new, clean browser profile**.  
+- Do not use it on existing profiles with custom styles or extensions that modify the browser's appearance.  
+
+### 2. Move Window Controls to the Left  
 - Go to `about:config` in your browser.  
 - Toggle `zen.view.experimental-force-window-controls-left` to `true`.  
 
-### 2. Set Density to Touch  
+### 3. Set Density to Touch  
 - Right-click on the menu bar and select **Customize Toolbar**.  
 - Set **Density** to **Touch**.  
 
-### 3. Enable Single Toolbar Mode  
-- This theme is **only compatible with single toolbar mode**.
+### 4. Enable Single Toolbar Mode  
+- This theme is **only compatible with single toolbar mode**.  
 
-### 4. Clean Up Extra Icons  
+### 5. Clean Up Extra Icons  
 - Remove unnecessary icons from the toolbar.  
-- Move them to the **hovering toolbar on the right side in hoverable toolbar ** to avoid cluttering the tabs section.  
+- Move them to the **hovering toolbar on the right side** to avoid cluttering the tabs section.  
 
-### 5. Enable Tab Groups  
+### 6. Enable Tab Groups  
 - Go to `about:config`.  
 - Search for `browser.tabs.groups.enabled` and set it to `true`.  
 
-### 6. URL Bar Lag During Animations  
+### 7. URL Bar Lag During Animations  
 - The URL bar may lag if animations or video content is displayed on the screen.  
 - To fix this, either:  
   - **Cope with the lag**, or  
   - **Remove the URL bar CSS** from the theme.  
 
+### 8. Disable New Tab Button and New Tab Page  
+- This theme **does not support the new tab button or new tab page**.  
+- Go to your browser settings and **turn off** the new tab button and new tab page features.
 
 <h2 align="left">💿 Installation:</h2>
 
