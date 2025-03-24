@@ -39,7 +39,7 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 - Do not use it on existing profiles with custom styles or extensions that modify the browser's appearance.  
 
 ### 2. Move Window Controls to the Left  
-- Go to `about:config` in your browser.  
+- type `about:config` in your url bar and go to advanced preferences.  
 - Toggle `zen.view.experimental-force-window-controls-left` to `true`.  
 
 ### 3. Set Density to Touch  
