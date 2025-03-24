@@ -51,8 +51,11 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 - This theme is **only compatible with single toolbar mode**.  
 
 ### 5. Clean Up Extra Icons  
+- type `about:config` in your url bar and go to advanced preferences.
+- Search for `zen.theme.content-element-separation` and set it to `10`.
 - Remove unnecessary icons from the toolbar.  
-- Move them to the **hovering toolbar on the right side** to avoid cluttering the tabs section.  
+- Move them to the **hovering toolbar on the right side** to avoid cluttering the tabs section.
+ 
 
 ### 6. Enable Tab Groups  
 - type `about:config` in your url bar and go to advanced preferences. 
