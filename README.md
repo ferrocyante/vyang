@@ -67,9 +67,6 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
   - **Cope with the lag**, or  
   - **Remove the URL bar CSS** from the theme.  
 
-### 8. Disable New Tab Button and New Tab Page  
-- This theme **does not support the new tab button or new tab page**.  
-- Go to your browser settings and **turn off** the new tab button and new tab page features.
 
 <h2 align="left">💿 Installation:</h2>
 
