@@ -54,7 +54,7 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 - Move them to the **hovering toolbar on the right side** to avoid cluttering the tabs section.  
 
 ### 6. Enable Tab Groups  
-- Go to `about:config`.  
+- type `about:config` in your url bar and go to advanced preferences. 
 - Search for `browser.tabs.groups.enabled` and set it to `true`.  
 
 ### 7. URL Bar Lag During Animations  
