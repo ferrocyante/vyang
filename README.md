@@ -44,11 +44,11 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 - this will require a restart of browser to take effect 
 
 ### 3. Set Density to Touch  
-- Right-click on the menu bar and select **Customize Toolbar**.  
+- Right-click on the empty space of tabs section and select **Customize Toolbar**.  
 - Set **Density** to **Touch**.  
 
 ### 4. Enable Single Toolbar Mode  
-- This theme is **only compatible with single toolbar mode**.  
+- This theme is **only compatible with single toolbar mode enable that in zen settings under 'look and feel' section **.  
 
 ### 5. Clean Up Extra Icons  
 - type `about:config` in your url bar and go to advanced preferences.
