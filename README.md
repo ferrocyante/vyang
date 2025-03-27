@@ -92,7 +92,7 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 
 ###
 
-<h4 align="left">3. Install Tacky borders (Optional)</h4>
+<h4 align="left">3. Install Tacky borders. config of tacky borders is in release (Optional)</h4>
 
 ###
 
