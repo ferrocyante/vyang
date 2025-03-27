@@ -115,6 +115,8 @@ Special thanks to **Mr. Green**, creator of the **Natsumi Browser**, for inspiri
 
 ###
 
+<p align="left">• https://github.com/Anoms12/Advanced-Tab-Groups</p>
+
 <p align="left">• https://github.com/greeeen-dev/natsumi-browser</p>
 
 ###
